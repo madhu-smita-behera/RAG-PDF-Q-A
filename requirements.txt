@@ -4,3 +4,5 @@ faiss-cpu
 sentence-transformers
 pypdf
 huggingface_hub
+langchain_community
+pymupdf
