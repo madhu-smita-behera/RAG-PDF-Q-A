@@ -13,7 +13,7 @@ This is a simple but powerful Retrieval-Augmented Generation (RAG) app built wit
 
 ## 🚀 Try the Live Demo
 
-👉 [Click here to try the app on Gradio]([https://huggingface.co/spaces/MadhuBehera/RAG-PDF])
+👉 [https://huggingface.co/spaces/MadhuBehera/RAG-PDF]
 
 ---
 
